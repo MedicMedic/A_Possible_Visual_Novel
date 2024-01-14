@@ -7,8 +7,8 @@ Story routes/endings:
 -Writer
 -Housewife/romance
 -YouTuber
--Doctor
--Engineer
+-Professor
+-Lawyer
 -Office job
 -Depressed
 
@@ -19,8 +19,8 @@ Artist: take on visual skills
 Writer: take on literary/speech skills
 Romance: completely pursue a love interest
 YouTuber: take on multiple artistic skills and sacrifice quality
-Doctor: take on educational skills and be empathetic
-Engineer: take on educational skills and be analytic
+Professor: take on educational skills and be empathetic
+Lawyer: take on educational skills and be analytic
 Office job: take on educational skills, choose no special trait
 Depressed: balance everything
 
