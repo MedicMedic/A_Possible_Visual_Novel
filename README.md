@@ -1,13 +1,9 @@
-# Possible: A Visual Novel
+After a tumultuous 17th year, you are finally 18! You have gained many talents and experiences over your whole life. You just started college and bonus, you still have a boyfriend! 
 
-*Are we gonna fall in love?*
+There's a remarkable life ahead of you, but what comes next? Will you chase your dreams or will you change them? Will you play it safe or risk it all? Will you fall in love or be heartbroken? Will you try to have it all? 
 
-*Are we gonna shake in terror?*
+There are no right or wrong answers. Only you will decide what is truly *possible*. 
 
-*Are we gonna cry ugly tears?*
+But remember, no one can have everything.
 
-*Or, perhaps, we'd decide that for ourselves?*
-
-You are an 18-year-old woman with your life ahead of you. Many paths are open for you, but which one will you take? Which one will make you the best version of yourself?
-
-It's all in your choices.
+Good luck and welcome to adulthood.
